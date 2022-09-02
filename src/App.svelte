@@ -47,10 +47,6 @@
       pog()
     } , (5 * 1000) + 50)
   }
-<<<<<<< HEAD
-=======
-
->>>>>>> 1f448fda1b93ac2e3744cb7358d1e8323d5d7019
 </script>
 
 <main>
@@ -58,5 +54,5 @@
   <img src={monoSvg} alt="mono" />
   <button on:click={load}>Build</button>
 
-  
+
 </main>
